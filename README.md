@@ -103,11 +103,14 @@ Backend-разработчик с фокусом на **высоконагруж
 <a href="https://github.com/ivan13821/Monium">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=Monium&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/ivan13821/goLibrary">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=goLibrary&theme=tokyonight&hide_border=true"/>
-</a>
 <a href="https://github.com/ivan13821/Hot-keys">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=Hot-keys&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/ivan13821/dbAutoInsert">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=dbAutoInsert&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/ivan13821/support_cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=support_cli&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -116,13 +119,6 @@ Backend-разработчик с фокусом на **высоконагруж
 > Асинхронная библиотека для работы с Monium (Yandex Cloud) через OpenTelemetry. **MIT License**
 
 `Python` · `OpenTelemetry` · `asyncio`
-
----
-
-### ⭐ goLibrary
-> Моя REST API библиотека на Go.
-
-`Go` · `net/http` · `REST`
 
 ---
 
