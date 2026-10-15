@@ -101,16 +101,16 @@ Backend-разработчик с фокусом на **высоконагруж
 <div align="center">
 
 <a href="https://github.com/ivan13821/Monium">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=Monium&theme=tokyonight&hide_border=true"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=Monium&theme=tokyonight&hide_border=true&show_owner=false&description_lines_count=2"/>
 </a>
 <a href="https://github.com/ivan13821/Hot-keys">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=Hot-keys&theme=tokyonight&hide_border=true"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=Hot-keys&theme=tokyonight&hide_border=true&show_owner=false&description_lines_count=2"/>
 </a>
 <a href="https://github.com/ivan13821/dbAutoInsert">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=dbAutoInsert&theme=tokyonight&hide_border=true"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=dbAutoInsert&theme=tokyonight&hide_border=true&show_owner=false&description_lines_count=2"/>
 </a>
 <a href="https://github.com/ivan13821/support_cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=support_cli&theme=tokyonight&hide_border=true"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ivan13821&repo=support_cli&theme=tokyonight&hide_border=true&show_owner=false&description_lines_count=2"/>
 </a>
 
 </div>
