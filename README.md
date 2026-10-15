@@ -133,35 +133,17 @@ Backend-разработчик с фокусом на **высоконагруж
 
 ---
 
-### 📌 Остальные проекты
+### ⭐ dbAutoInsert 🚀
+> Автоматизированное решение для наполнения тестовыми данными управляемых баз данных в Yandex Cloud. Предназначено для специалистов технической поддержки и разработчиков: быстро создаёт репрезентативные наборы данных в кластерах PostgreSQL, ClickHouse и MySQL для отладки, тестирования производительности и демонстрации функционала.
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| **[BOT_USD](https://github.com/ivan13821/BOT_USD)** | Telegram-бот с автоматическими ответами по базе знаний, обновляемой из ответов на вопросы ЕСД | `Python` |
-| **[dbAutoInsert](https://github.com/ivan13821/dbAutoInsert)** | Автоматическое наполнение БД тестовыми данными для сценариев тестирования | `Python` |
-| **[support_cli](https://github.com/ivan13821/support_cli)** | CLI для поддержки Yandex Cloud | `Shell` |
-| **[My-library](https://github.com/ivan13821/My-library)** | Реализация собственной библиотеки на Java для изучения Spring | `Java` |
-| **[OnlineCompilator](https://github.com/ivan13821/OnlineCompilator)** | Сайт с алгоритмическими задачами для студентов | `JavaScript` |
-| **[MathBot](https://github.com/ivan13821/MathBot)** | Бот для детей — тренировка навыков устного счёта | `Python` |
+`Python` · `Yandex Cloud` · `PostgreSQL` · `ClickHouse` · `MySQL`
 
 ---
 
-## 📊 Статистика GitHub
+### ⭐ support_cli 🚀
+> CLI-инструмент для автоматизации задач развертывания инфраструктуры в Yandex Cloud. Упрощает управление ресурсами и ускоряет процесс разработки.
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivan13821&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan13821&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan13821&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ivan13821&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+`Shell` · `Yandex Cloud` · `YC CLI` · `Bash`
 
 ---
 
