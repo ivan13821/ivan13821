@@ -157,12 +157,4 @@ Backend-разработчик с фокусом на **высоконагруж
 <a href="mailto:safarovi670@gmail.com"><img src="https://img.shields.io/badge/Gmail-safarovi670@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/ivashka138"><img src="https://img.shields.io/badge/Telegram-@ivashka138-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ivan13821&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
 </div>
